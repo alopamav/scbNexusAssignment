@@ -9,12 +9,10 @@ import {
   TableContainer,
   TableHead,
   TableRow,
-  TablePagination,
 } from "@material-ui/core";
 
 import SearchBox from "./SearchBox";
 import axios from "axios";
-import {AutoSizer} from "react-virtualized";
 
 const divStyle = {
   color: "black",
@@ -47,7 +45,7 @@ class MovieList extends Component {
     axios
       .get("http://www.omdbapi.com/?apikey=b9bd48a6&type=movie&S=" + data)
       .then((response) => {
-        if (response.data.Response != "False") {
+        if (response.data.Response !== "False") {
           const rows = response.data.Search;
 
           this.setState({rows});
