@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/alopamav/scbNexusAssignment.git/static/css/main.5ecd60fb.chunk.css",
-    "main.js": "/alopamav/scbNexusAssignment.git/static/js/main.ccf62656.chunk.js",
-    "main.js.map": "/alopamav/scbNexusAssignment.git/static/js/main.ccf62656.chunk.js.map",
-    "runtime-main.js": "/alopamav/scbNexusAssignment.git/static/js/runtime-main.721ca917.js",
-    "runtime-main.js.map": "/alopamav/scbNexusAssignment.git/static/js/runtime-main.721ca917.js.map",
-    "static/js/2.a4a92119.chunk.js": "/alopamav/scbNexusAssignment.git/static/js/2.a4a92119.chunk.js",
-    "static/js/2.a4a92119.chunk.js.map": "/alopamav/scbNexusAssignment.git/static/js/2.a4a92119.chunk.js.map",
-    "index.html": "/alopamav/scbNexusAssignment.git/index.html",
-    "precache-manifest.b5fdbc7a17ef7f48288563db43ce1361.js": "/alopamav/scbNexusAssignment.git/precache-manifest.b5fdbc7a17ef7f48288563db43ce1361.js",
-    "service-worker.js": "/alopamav/scbNexusAssignment.git/service-worker.js",
-    "static/css/main.5ecd60fb.chunk.css.map": "/alopamav/scbNexusAssignment.git/static/css/main.5ecd60fb.chunk.css.map",
-    "static/js/2.a4a92119.chunk.js.LICENSE.txt": "/alopamav/scbNexusAssignment.git/static/js/2.a4a92119.chunk.js.LICENSE.txt"
+    "main.css": "/scbNexusAssignment/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/scbNexusAssignment/static/js/main.adddaca0.chunk.js",
+    "main.js.map": "/scbNexusAssignment/static/js/main.adddaca0.chunk.js.map",
+    "runtime-main.js": "/scbNexusAssignment/static/js/runtime-main.ba74d01e.js",
+    "runtime-main.js.map": "/scbNexusAssignment/static/js/runtime-main.ba74d01e.js.map",
+    "static/js/2.a4a92119.chunk.js": "/scbNexusAssignment/static/js/2.a4a92119.chunk.js",
+    "static/js/2.a4a92119.chunk.js.map": "/scbNexusAssignment/static/js/2.a4a92119.chunk.js.map",
+    "index.html": "/scbNexusAssignment/index.html",
+    "precache-manifest.5ba51639def864cbce8a949e04da148d.js": "/scbNexusAssignment/precache-manifest.5ba51639def864cbce8a949e04da148d.js",
+    "service-worker.js": "/scbNexusAssignment/service-worker.js",
+    "static/css/main.5ecd60fb.chunk.css.map": "/scbNexusAssignment/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.a4a92119.chunk.js.LICENSE.txt": "/scbNexusAssignment/static/js/2.a4a92119.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.721ca917.js",
+    "static/js/runtime-main.ba74d01e.js",
     "static/js/2.a4a92119.chunk.js",
     "static/css/main.5ecd60fb.chunk.css",
-    "static/js/main.ccf62656.chunk.js"
+    "static/js/main.adddaca0.chunk.js"
   ]
 }
